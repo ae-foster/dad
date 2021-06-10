@@ -1,0 +1,5 @@
+# pytorch: we suggest installing separately using the instructions at https://pytorch.org/
+mlflow
+pandas
+numpy
+pyro-ppl==1.6.0

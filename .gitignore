@@ -1,0 +1,13 @@
+.DS_Store
+.idea
+__pycache__
+*.pickle
+.Rproj.user
+mlruns/*
+mlflow_outputs/*
+*.o
+*.csv
+.vscode/*
+.vscode/*
+zignore*
+evalruns/*
